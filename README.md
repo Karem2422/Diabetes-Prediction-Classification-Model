@@ -3,7 +3,12 @@
 ## 📌 Project Overview
 This project presents an in-depth analysis and comparative study of **Multi-class** versus **Binary Classification** for diabetes prediction. Utilizing the CDC Behavioral Risk Factor Surveillance System (BRFSS) 2015 dataset, the study explores various machine learning models across multiple experimental phases to identify the most effective predictive approach.
 
-  - Abdulkarem Ghassan
+
+- **Group Name:** The Avengers
+- **Members:** 
+  - Abdulkarem Ghassan 
+  - Baraa Alaa 
+  - Sara Al-Saeedi 
 
 ---
 
